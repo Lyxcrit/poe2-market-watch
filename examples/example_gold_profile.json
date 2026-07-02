@@ -1,0 +1,13 @@
+{
+  "default_per_trade": 0,
+  "default_per_input_unit": 0,
+  "default_per_output_unit": 0,
+  "multiplier": 1.0,
+  "per_trade": {},
+  "per_input_unit": {},
+  "per_output_unit": {
+    "Chaos Orb": 160,
+    "Divine Orb": 800,
+    "Exalted Orb": 120
+  }
+}

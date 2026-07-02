@@ -1,0 +1,15 @@
+[project]
+name = "poe2-market-watch"
+version = "0.1.0"
+description = "Manual Path of Exile 2 currency market snapshot analysis and arbitrage decision support."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+dependencies = [
+    "requests",
+    "rich",
+]
+
+[tool.black]
+line-length = 88
+target-version = ["py39"]
